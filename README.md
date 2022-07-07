@@ -1,2 +1,2 @@
 # hack-skeleton-overview
-skeleton for node prod
+skeleton for node project
